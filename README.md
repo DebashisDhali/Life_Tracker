@@ -18,6 +18,31 @@
 
 ---
 
+## 📲 Download & Install
+
+<div align="center">
+
+### ⬇️ [Download Latest APK — LifeTracker v1.0.0](https://github.com/DebashisDhali/Life_Tracker/raw/main/releases/LifeTracker-v1.0.0.apk)
+
+[![Download APK](https://img.shields.io/badge/Download-APK%20v1.0.0-brightgreen?style=for-the-badge&logo=android&logoColor=white)](https://github.com/DebashisDhali/Life_Tracker/raw/main/releases/LifeTracker-v1.0.0.apk)
+
+</div>
+
+### 📋 Installation Steps (Android)
+
+> ⚠️ **Note:** This is not from the Play Store, so you need to allow installation from unknown sources.
+
+1. **Download** the APK file from the link above
+2. Open your phone's **Settings → Security**
+3. Enable **"Install from Unknown Sources"** (or "Allow from this source")
+4. Open the downloaded **`LifeTracker-v1.0.0.apk`** file
+5. Tap **Install** and wait for it to finish
+6. Open **Life Tracker** and sign in with Google 🎉
+
+> ✅ **Requirements:** Android 5.0 (Lollipop) or higher | ~25 MB storage
+
+---
+
 ## 📱 About Life Tracker
 
 **Life Tracker** is a beautifully designed Flutter application that helps you take control of every aspect of your life — from building powerful daily habits to managing your personal finances. With cloud sync, smart reminders, achievement badges, and insightful visualizations, Life Tracker becomes your daily personal coach.
