@@ -1,0 +1,84 @@
+# Miscellaneous
+*.class
+*.log
+*.pyc
+*.swp
+.DS_Store
+.atom/
+.build/
+.buildlog/
+.history
+.svn/
+.swiftpm/
+migrate_working_dir/
+
+# IntelliJ related
+*.iml
+*.ipr
+*.iws
+.idea/
+
+# The .vscode folder contains launch configuration and tasks you configure in
+# VS Code which you may wish to be included in version control, so this line
+# is commented out by default.
+#.vscode/
+
+# Flutter/Dart/Pub related
+**/doc/api/
+**/ios/Flutter/.last_build_id
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.pub-cache/
+.pub/
+/build/
+
+# Symbolication related
+app.*.symbols
+
+# Obfuscation related
+app.*.map.json
+
+# Android Studio will place build artifacts here
+/android/app/debug
+/android/app/profile
+/android/app/release
+
+# Analysis & build log files (auto-generated)
+analysis.txt
+analysis_opt.txt
+analysis_options_output.txt
+analysis_output.txt
+analysis_output_2.txt
+analysis_output_3.txt
+analysis_results.txt
+analysis_utf8.txt
+analysis_utf8_3.txt
+analyze_output.txt
+build_debug_verbose.txt
+build_error_output.txt
+build_error_output_utf8.txt
+build_log_2.txt
+build_output.txt
+check_after_fixes.txt
+check_after_fixes_2.txt
+check_after_fixes_2_utf8.txt
+check_after_fixes_utf8.txt
+final_analysis.txt
+final_analysis_utf8.txt
+final_build_attempt.txt
+final_check.txt
+final_check_utf8.txt
+final_clean_analysis.txt
+final_clean_analysis_utf8.txt
+fresh_analysis.txt
+fresh_analysis_utf8.txt
+life_provider_analysis.txt
+life_provider_analysis_utf8.txt
+quick_check.txt
+quick_check_utf8.txt
+test_output.txt
+verbose_build.txt
+
+# Sensitive files
+android/app/google-services.json
